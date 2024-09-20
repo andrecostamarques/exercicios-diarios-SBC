@@ -4,3 +4,5 @@
 ## Exercício de String
 - Exercício 16-08-24. Spin Word Problem.
 - Exercício 20-09-24. Split Strigs Problem.
+## Exercício de Array
+- Exercício 20-09-24-2. Equal Sides Of An Array
